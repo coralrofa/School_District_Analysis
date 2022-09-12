@@ -10,7 +10,7 @@ District performance data was re-analyzed to exclude reading and math grades for
 
 [Updated District Summary](Updated_District_Summary.PNG)
 
-![Updated District Summary](https://github.com/coralrofa/School_District_Analysis/blob/main/Resources/Updated_School_Summary.png)
+![Updated District Summary](https://github.com/coralrofa/School_District_Analysis/blob/main/Resources/Updated_District_Summary.PNG)
 
 [Original_District_Summary](Original_District_Summary.PNG)
 
